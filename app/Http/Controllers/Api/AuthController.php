@@ -82,7 +82,7 @@ public function logout(Request $request)
 
 private function teting()
 {
-    dd("Test");
+    echo "changed by mondal";
 }
 
 }
