@@ -80,4 +80,9 @@ public function logout(Request $request)
     ], 200);
 }
 
+private function teting()
+{
+    dd("Test");
+}
+
 }
